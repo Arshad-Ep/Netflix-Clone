@@ -16,7 +16,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-<h1>ScreenShot<h1>
+<h1>ScreenShots<h1>
 
 <div>
   <img src='screenshots/1000220928.png' width='256' style:inline-block/>
