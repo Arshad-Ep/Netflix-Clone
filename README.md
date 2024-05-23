@@ -14,3 +14,15 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+<h1>ScreenShot<h1>
+
+<div>
+  <img src='screenshots/1000220928.png' width='256' style:inline-block/>
+  <img src='screenshots/1000220929.png' width='256' style:inline-block/>
+</div>
+<div>
+  <img src='screenshots/1000220930.png' width='256' style:inline-block/>
+  <img src='screenshots/1000220931.png' width='256' style:inline-block/>
+</div>
